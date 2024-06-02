@@ -1,0 +1,45 @@
+#container {
+  width: 20%;
+  height: 90vh;
+  overflow: scroll;
+  margin: auto;
+}
+
+#top {
+  background-color: skyblue;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#divCon {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+}
+
+/* #innerDiv {
+  width: 150px;
+}
+
+#innerDiv {
+  display: flex;
+  flex-direction: row;
+}
+
+#heading {
+  color: blueviolet;
+}
+
+#apiCon {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+} */
